@@ -133,3 +133,4 @@ Data/
 
 # CSV data
 *.csv
+*.gexf
